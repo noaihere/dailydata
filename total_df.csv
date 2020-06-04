@@ -1,15 +1,14 @@
 index,metric,value,category,category_1
-0,additional,506,today total,
-1,imported,0,today total,additional
-2,community,5,today total,additional
-5,in dormitories,501,today total,additional
-6,known clusters,99,known clusters,
-7,previously unlinked,1,previously unlinked,
-8,discharged,1096,discharged,
-9,fully recovered,20727,fully recovered,
-10,still in hospital,374,still in hospital,
-11,critical condition,7,critical condition,
-12,discharged,1337,discharged,
-13,fully recovered,19631,fully recovered,
-14,still in hospital,461,still in hospital,
-15,critical condition,8,critical condition,
+0,additional,569,today total,
+1,community,7,today total,additional
+4,in dormitories,562,today total,additional
+5,known clusters,99,known clusters,
+6,previously unlinked,7,previously unlinked,
+7,discharged,407,discharged,
+8,fully recovered,23582,fully recovered,
+9,still in hospital,334,still in hospital,
+10,critical condition,5,critical condition,
+11,discharged,1337,discharged,
+12,fully recovered,19631,fully recovered,
+13,still in hospital,461,still in hospital,
+14,critical condition,8,critical condition,
